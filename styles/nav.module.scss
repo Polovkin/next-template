@@ -1,0 +1,11 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  justify-content: space-between;
+  background-color: blue;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
